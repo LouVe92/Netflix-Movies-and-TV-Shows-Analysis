@@ -4,8 +4,10 @@
 Project ini merupakan project Data Science kedua yang saya post ke Github, yang meliputi Data Cleaning dan Exploratory Data Analysis, termasuk Univariate/Bivariate/Multivariate Analysis dan Deep Dive Question, serta membuat model Recommendation System menggunakan bahasa pemograman Python.
 
 ### **File Description**
-Selain README file, terdapat hanya 1 file lain di dalam repository, yaitu:
+Selain README file, terdapat hanya 2 file lain di dalam repository, yaitu:
 1. File notebook yang dapat dijalankan dengan menggunakan Google Colab. File tersebut berisikan step-by-step yang dilakukan, coding, model, beserta observation ataupun interpretasi yang didapatkan
+2. File power point yang berisikan summary atas project yang dilakukan, sehingga dapat lebih mudah untuk memahami project tanpa melihat secara detail
+Selain README file, terdapat hanya 2 file lain di dalam repository, yaitu:
 
 
 ### **Business Understanding**
