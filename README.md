@@ -20,6 +20,8 @@ Perusahaan bernama Netflix merupakah perusahaan yang menayangkan film dan TV sho
     *   Mendapatkan business insight dengan menjawab pertanyaan sebagai berikut:
         1. Seberapa updatekah film dan TV show yang terdapat pada Netflix?
         2. Genre film dan TV show apa yang dirilis di Netflix pada 3 tahun terakhir?
+        3. Bagaimanakah sentiment atas konten (berdasarkan description) yang terdapat pada Netflix selama 10 tahun terakhir?
+    *   Membuat sistem rekomendasi konten berdasarkan input pelanggan
        
 *   Challenges:
     *   Jumlah data yang besar
@@ -34,7 +36,8 @@ Perusahaan bernama Netflix merupakah perusahaan yang menayangkan film dan TV sho
     *   Cosine Similarity
 
 *   Business Benefit:
-    *   Memberikan rekomendasi film atau TV show kepada pelanggan, sehingga pelanggan tertarik untuk terus berlangganan Netflix
+    *   Dengan mengetahui konten yang ditayangkan, Netflix dapat menentukan strategi atas konten apa yang harus direlease berikutnya 
+    *   Dengan membuat sistem rekomendasi, Netflix dapat meningkatkan customer satisfaction dan customer retention. Hal ini dikarenakan sistem rekomendasi akan meningkatkan customer experience, yaitu membantu customer untuk menentukan film atau TV show apa yang akan ditonton customer sesuai dengan input customer, sehingga customer akan memiliki lebih banyak waktu untuk menikmati film atau TV show daripada frustasi menentukan apa yang harus ditonton
 
 *   Expected Outcomes: 
     * Mengetahui detail film dan TV show yang ditayangkan di Netflix
